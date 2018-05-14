@@ -1,17 +1,13 @@
 {
   "name": "alloycrop",
-  "version": "1.0.2",
-  "description": "The best and tiny size mobile cropping component - ×ö×îºÃÇÒ×îÐ¡µÄÒÆ¶¯²Ã¼ô×é¼þ",
+  "version": "1.0.3",
+  "description":
+    "The best and tiny size mobile cropping component - ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½ï¿½ï¿½Æ¶ï¿½ï¿½Ã¼ï¿½ï¿½ï¿½ï¿½",
   "main": "alloy-crop.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "alloycrop",
-    "crop",
-    "alloyfinger",
-    "gesture"
-  ],
+  "keywords": ["alloycrop", "crop", "alloyfinger", "gesture"],
   "dependencies": {
     "alloyfinger": "^0.1.8",
     "css3transform": "^1.1.7"
